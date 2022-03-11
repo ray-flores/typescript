@@ -2,7 +2,7 @@
 export class Message {
   title: string;
   message: string;
-  //underscore often used to identify getter or setter and are set to a private variable
+  //underscore often used to identify getter or setter and is set to a private variable
   // setters don't return values but take in a value
   // let's set a date for when a message is sent
   private _isSent: boolean;
