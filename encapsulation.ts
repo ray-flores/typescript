@@ -7,7 +7,7 @@
 // limits scope of availability 
 
 //public vs private
-// public by default; C# private by default
+// public by default; C# language private by default
 
 export class Animal {
   public age: number;
