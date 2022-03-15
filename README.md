@@ -1,5 +1,5 @@
-Ray's Typescript Practise
+# Ray's Typescript Practise
 
-Summary
+## Summary
 
 This repository contains exercises completed by Ray Flores in typescript to maintain competency.
